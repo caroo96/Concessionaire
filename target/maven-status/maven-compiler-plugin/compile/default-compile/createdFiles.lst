@@ -1,0 +1,15 @@
+com\mycompany\concessionaire1\Concessionaire1.class
+com\mycompany\concessionaire1\DataAccess\InventoryDAO.class
+com\mycompany\concessionaire1\Controller\VehicleValidations.class
+com\mycompany\concessionaire1\DataAccess\VehicleDAO.class
+com\mycompany\concessionaire1\Views\Vehicle.class
+com\mycompany\concessionaire1\DataAccess\RepairOrMaintenanceDAO.class
+com\mycompany\concessionaire1\Controller\AppointmentValidations.class
+com\mycompany\concessionaire1\Views\Appointment.class
+com\mycompany\concessionaire1\DataAccess\SQLServerConnection.class
+com\mycompany\concessionaire1\Views\Inventory.class
+com\mycompany\concessionaire1\Views\RepairOrMaintenance.class
+com\mycompany\concessionaire1\DataAccess\CustomerDAO.class
+com\mycompany\concessionaire1\DataAccess\AppointmentDAO.class
+com\mycompany\concessionaire1\Controller\ClientValidations.class
+com\mycompany\concessionaire1\Views\Client.class
